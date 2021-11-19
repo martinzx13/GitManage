@@ -1,0 +1,36 @@
+body{
+    color: navy;
+    text-align: center;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+
+}
+#content{
+
+    width: 70%;
+    padding: 1 en;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+
+#content h1{
+    font-size:20px;
+}
+
+#cabecera{
+    background:blue;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0,0,0.5);
+    color: white;
+    margin: 0;
+    padding: 0.5cm; 
+}
+#cabecera #tagLine{
+    padding:  0 0 0 1cm;
+    font-weight: normal; 
+    font-size: 0.5cm;
+    
+
+}
