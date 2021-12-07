@@ -1,6 +1,6 @@
 body{
-    background:rgb(164, 164, 214);
-    color: rgb(50, 50, 216);
+    background:rgb(92, 92, 94);
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family: Arial;
     margin: 0;
@@ -43,7 +43,7 @@ body{
 
 }
 .post{
-    background:white;
+    background:rgb(240, 232, 232);
     padding: 1em;
 }
 
