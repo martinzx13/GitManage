@@ -1,5 +1,6 @@
 body{
-    color: navy;
+    background:rgb(164, 164, 214);
+    color: rgb(50, 50, 216);
     text-align: center;
     font-family: Arial;
     margin: 0;
@@ -20,18 +21,29 @@ body{
 #content h1{
     font-size:20px;
 }
+
 #cabecera{
-    background:blue;
+    background: papayawhip;
     box-shadow: 0px 2px 20px 0px rgba(0, 0,0,0.5);
-    color: white;
+    color: rgb(20, 22, 29);
     margin: 0;
     padding: 0.5cm; 
 }
+
+#cabecera #logo{
+    width: 60px;
+    vertical-align:middle;
+}
+
 #cabecera #tagLine{
     padding:  0 0 0 1cm;
     font-weight: normal; 
     font-size: 0.5cm;
     
 
+}
+.post{
+    background:white;
+    padding: 1em;
 }
 
